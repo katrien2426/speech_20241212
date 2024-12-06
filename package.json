@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --base /speech_20241212/",
     "dev": "slidev --open",
     "export": "slidev export"
   },
